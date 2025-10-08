@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsingh921&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsingh921" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack-Web-Development**
+- 🌱 I’m a **Full-Stack-Web-Developer**
 
-- 💬 Ask me about **HTML | CSS | JavaScript| ReactJs | TypeScript | Redux | NextJs | NodeJs | ExpressJs | MongoDB |**
+- 💬 Ask me about **HTML | CSS | JavaScript| ReactJs | TypeScript | Redux | NextJs | NodeJs | ExpressJs | MongoDB | Chakra UI |**
 
 - 📫 How to reach me **kuldeepsingh211199@gmail.com**
 
