@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kuldeepsingh211199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mx76MItsitp5sLdOLOWTNSJSFiVE6LDZ/view?usp=share_link](https://drive.google.com/file/d/1Mx76MItsitp5sLdOLOWTNSJSFiVE6LDZ/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Mx76MItsitp5sLdOLOWTNSJSFiVE6LDZ/view?usp=share_link](https://drive.google.com/file/d/1CcO4BHxaugckddC6tKMFU7YzchLBlMyf/view?usp=sharing)
 
 - ⚡ Fun fact ** Traveling, Watching Podcasts, Watching Traveling Vlogs**
 
